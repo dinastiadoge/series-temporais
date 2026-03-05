@@ -25,3 +25,23 @@ scripts/
 - `matplotlib`
 - `statsmodels`
 - `scikit-learn`
+
+## Boilerplate de dependências
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from statsmodels.tsa.api import seasonal_decompose
+from statsmodels.tsa.stattools import adfuller
+import statsmodels.api as sm
+```
+## Criação de ambientes
+
+# Create venv
+python -m venv venv
+
+# Activate it
+.\venv\Scripts\Activate.ps1
+
+# Install packages
+pip install pandas numpy matplotlib statsmodels
