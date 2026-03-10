@@ -10,7 +10,7 @@ Organize cada atividade em uma subpasta numerada ou com nome descritivo:
 atividades/
 ├── atividade-01/
 │   ├── enunciado.pdf
-│   └── resolucao.ipynb
+│   └── resolucao.py
 ├── atividade-02/
 │   └── ...
 └── ...

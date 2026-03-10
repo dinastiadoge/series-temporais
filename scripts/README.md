@@ -25,6 +25,7 @@ scripts/
 - `matplotlib`
 - `statsmodels`
 - `scikit-learn`
+- `ipykernel`
 
 ## Boilerplate de dependências
 ```
